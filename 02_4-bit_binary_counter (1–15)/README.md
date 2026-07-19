@@ -37,7 +37,7 @@ A delay is added between each count so the changes can be observed visually.
 ---
 
 ## 🔌 Circuit Diagram
-![Circuit Diagram](4-bit_binary_counter.jpg)
+![Circuit Diagram](media/4_bit_binary_counter.jpg)
 
 ---
 
